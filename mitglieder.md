@@ -6,5 +6,6 @@
   <li>Celia Krause, NFDI4Culture</li>
   <li>Anna Gnyp, Koordinierungsstelle für wissenschaftliche Universitätssammlungen in Deutschland | Datenkompetenzzentum SODa - Sammlungen, Objekte, Datenkompetenzen</li>
   <li>Anja Gerber, NFDI4Objects</li>
+  <li>Patrick Dinger, Universitäts- und Landesbibliothek Münster</li>
 </ul>  
 
