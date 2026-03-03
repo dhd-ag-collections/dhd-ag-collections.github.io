@@ -4,7 +4,7 @@
 
 #### Monatliche Routinerunde jeweils am 2. Freitag im Monat
 
-Die AG trifft sich einmal im Monat virtuell. Zugangsdaten bitte per Mail an <mailto:winkler@zib.de> erfragen. [Kalendereintrag abonnieren](cal/routine.ics)
+Die AG trifft sich einmal im Monat virtuell. Zugangsdaten bitte per Mail an <mailto:winkler@zib.de> erfragen.
 
 ### Ankündigungen  
 
