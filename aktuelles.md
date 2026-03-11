@@ -2,7 +2,7 @@
 
 ### Regelmäßige Treffen
 
-#### Monatliche Routinerunde jeweils am 2. Freitag im Monat
+#### Monatliche Routinerunde jeweils am 2. Freitag im Monat, 14-15 Uhr
 
 Die AG trifft sich einmal im Monat virtuell. Zoom-Raum: <https://zib-de.zoom.us/j/66906547695?pwd=orIgOCm3HnrlYWTZ3nKD7J2AIOGxBt.1>, [📅 ics-Kalendereintrag](cal/routine.ics)
 
