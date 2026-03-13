@@ -10,6 +10,7 @@
   <li>Michael Markert, Verbundzentrale des GBV (VZG)</li>
   <li>Frank von Hagel, Institut für Museumsforschung</li>
   <li>Sarah Wagner, FAU Erlangen-Nürnberg</li>
+  <li>John Woitkowitz, Stabi Berlin</li>
    <li>Christiane Sibille, ETH Zürich</li>
 </ul>  
 
