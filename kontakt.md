@@ -4,4 +4,6 @@
 
 #### Convenor
 
+Georg Hohmann
+
 #### Co-Convenor
