@@ -7,6 +7,7 @@
   <li>Anna Gnyp, Koordinierungsstelle für wissenschaftliche Universitätssammlungen in Deutschland | Datenkompetenzzentum SODa - Sammlungen, Objekte, Datenkompetenzen</li>
   <li>Anja Gerber, Klassik Stiftung Weimar| NFDI4Objects</li>
   <li>Patrick Dinger, Universitäts- und Landesbibliothek Münster</li>
+  <li>Katja Sternitzke, Stabi Berlin | NFDI4Culture</li>
   <li>Michael Markert, Verbundzentrale des GBV (VZG)</li>
   <li>Frank von Hagel, Institut für Museumsforschung</li>
   <li>Sarah Wagner, FAU Erlangen-Nürnberg | NFDI4Objects</li>
